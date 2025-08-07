@@ -95,7 +95,7 @@ project/
 
 ## 🙌 Credits
 
-Created by [Your Name]  
+Created by [Sanskriti Bharti]  
 Icons by [Bootstrap Icons](https://icons.getbootstrap.com/)  
 Images are placeholders and for demo purposes only.
 
